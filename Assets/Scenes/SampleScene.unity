@@ -584,6 +584,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 80202855fbf5c2944ae30883050ef4a2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  power: 10
+  maxDrag: 5
+  rigidBody: {fileID: 572535294}
+  lineRenderer: {fileID: 572535295}
 --- !u!1 &1381286246
 GameObject:
   m_ObjectHideFlags: 0
